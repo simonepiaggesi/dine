@@ -1,5 +1,5 @@
 # DINE: Dimensional Interpretability of Node Embeddings
-In this repository you will find code to run experiments of the paper [DINE: Dimensional Interpretability of Node Embeddings](https://arxiv.org/abs/2310.01162). The code has been tested with Python 3.6.13.
+In this repository you will find code to run experiments of the paper [DINE: Dimensional Interpretability of Node Embeddings](https://ieeexplore.ieee.org/abstract/document/10591463). The code has been tested with Python 3.6.13.
 
 If you use the code in this repository, please consider citing us:
 ```bibtex
