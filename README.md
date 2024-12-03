@@ -3,11 +3,12 @@ In this repository you will find code to run experiments of the paper [DINE: Dim
 
 If you use the code in this repository, please consider citing us:
 ```bibtex
-@article{piaggesi2023dine,
-  title={DINE: Dimensional Interpretability of Node Embeddings},
+@article{piaggesi2024dine,
+  title={Dine: Dimensional interpretability of node embeddings},
   author={Piaggesi, Simone and Khosla, Megha and Panisson, Andr{\'e} and Anand, Avishek},
-  journal={arXiv preprint arXiv:2310.01162},
-  year={2023}
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
